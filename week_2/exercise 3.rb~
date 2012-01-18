@@ -1,0 +1,11 @@
+def leap_year? year
+  year % 400 == 0 || year % 100 && year % 4 
+  end
+end
+
+(2095..2105).each do |year|
+  print year.to_s + ": "
+  out = leap_year?(year) ? "Leap Year: 527040 minutes" : "normal year: 525600 minutes"
+  print out + "\n"
+end
+  

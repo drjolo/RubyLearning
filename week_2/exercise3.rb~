@@ -1,0 +1,26 @@
+=begin
+doctest: leap years should happen every 400 years
+>> test_years = [1600, 2000, 2400]
+>> test_years.all?{|year| leap_year?(year) == true }
+=> true
+doctest: leap years should not occur on years divisible by 100
+>> test_years = [1700, 2100, 2500]
+>> test_years.all?{|year| leap_year?(year) == false }
+=> true
+doctest: leap years should occur on years divisible by 4 (other than centuries)
+>> test_years = [1704, 2104, 2504]
+>> test_years.all?{|year| leap_year?(year) == true }
+=> true
+=end
+
+def leap_year? year
+	year % 400 == 0 || year % 100 != 0 && year % 4 == 0 
+end
+
+if __FILE__ == $0
+	(2095..2105).each do |year|
+		print year.to_s + ": "
+		out = leap_year?(year) ? "Leap Year: 527040 minutes" : "normal year: 525600 minutes"
+		print out + "\n"
+	end
+end 
