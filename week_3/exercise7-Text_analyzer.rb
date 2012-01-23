@@ -13,6 +13,7 @@ Average number of sentences per paragraph
 
 =begin
  doctest: Text Analyzer works!
+ >> puts 'hello world'
  >> ta = TextAnalyzer.new()
  >> ta.analyze( 'text.txt' )
  >> ta.chars
@@ -49,7 +50,7 @@ class TextAnalyzer
         @chars += line.strip.size
         @chars_no_spaces += line.strip.delete(' ').size
         @lines += 1
-        @sentences += line.count('.') + line.count('!') + line.count('?')
+        @sentences += line.count('.!?')# + line.count('!') + line.count('?')
         @words += line.scan(/\w+/).length
         if new_paragraph || @count_first_paragraph
           if line != "\r\n"
