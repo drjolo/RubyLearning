@@ -1,0 +1,17 @@
+Amy_squeaks.rb
+docs
+docs/first.txt
+docs/second.txt
+exercise1-Dog_class.rb
+exercise1-Dog_class_tests.rb
+exercise2-Rectangle.rb
+exercise2-Rectangle_tests.rb
+exercise3-Deaf_Granny2.rb
+exercise3-Deaf_Granny2_tests.rb
+exercise4-Swap_File_Contents.rb
+exercise4-Swap_File_Contents_tests.rb
+exercise5-File_List.rb
+exercise5-Version_Control.rb
+new-inventory.txt
+old-inventory.txt
+test.rb
