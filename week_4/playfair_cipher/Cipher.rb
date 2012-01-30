@@ -72,8 +72,7 @@ class Cipher
       key = gets.chomp
     end if key == ''
     key.upcase!
-    key.delete!(' ')
-    key.delete!('J')
+    key.delete!(' ', 'J')
     key.strip!
     alphabet = ('A'..'Z').to_a
     alphabet.delete( 'J' )

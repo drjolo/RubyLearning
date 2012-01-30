@@ -23,16 +23,18 @@ class Rectangle
     @perimeter = 2 * ( height + width )
   end
   
-  def area
-    self.formatter( @area )
+  def area( round_to = false )
+    round_to ? self.formatter( @area, round_to ) : @area
   end
   
-  def perimeter
-    self.formatter(2 * ( @perimeter ))
+  def perimeter( round_to = false )
+    round_to ? self.formatter( @perimeter, round_to ) : @perimeter
   end
   
-  def formatter( num )
-    ((num *= 100).round.to_f)/100
+  def formatter( num, decimals )
+    multiplier = 1
+    decimals.times { |i| multiplier *= 10 }
+    ((num *= multiplier ).round.to_f)/multiplier
   end
   
 end
