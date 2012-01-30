@@ -1,3 +1,10 @@
-f = IO.readlines('new-inventory.txt')
-puts f.class
-puts f.inspect
+
+def encode( mstr )
+  mstr.replace 'BA'
+end
+
+str = 'AB'
+
+puts "Before: #{str}"
+encode( str )
+puts "After: #{str}"
