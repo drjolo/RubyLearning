@@ -22,7 +22,7 @@ class Cipher
   end
   
   def initialize
-    if DEBUG do
+    if DEBUG
       key = 'miscellaneous pirates'
       self.generate_square( key )
     end
@@ -155,10 +155,10 @@ if __FILE__ == $0
   key = gets.chomp
   exit 0 if key == 'exit'
   puts "Type '1-message' to encipher and '2-encoded message' to decipher"
-  begin
+  until message == 'exit'
     "Please type your message now:"
     message = gets.chomp
     puts pf.encipher( key, message[2,message.length-2] ) if message[0].to_i == 1
     puts pf.decipher( key, message[2,message.length-2] ) if message[0].to_i == 2
-  end until message == 'exit'
+  end 
 end

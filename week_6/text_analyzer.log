@@ -1,0 +1,244 @@
+# Logfile created on 2012-02-03 16:35:57 -0700 by logger.rb/25413
+D, [2012-02-03T16:35:57.285202 #12503] DEBUG -- : new line - info update: {:chars=>62, :chars_no_spaces=>52, :lines=>1, :words=>11, :sentences=>0, :paragraphs=>1, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.286504 #12503] DEBUG -- : new line - info update: {:chars=>123, :chars_no_spaces=>103, :lines=>2, :words=>22, :sentences=>0, :paragraphs=>1, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.286600 #12503] DEBUG -- : new line - info update: {:chars=>185, :chars_no_spaces=>155, :lines=>3, :words=>33, :sentences=>0, :paragraphs=>1, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.286710 #12503] DEBUG -- : new line - info update: {:chars=>247, :chars_no_spaces=>206, :lines=>4, :words=>45, :sentences=>0, :paragraphs=>1, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.286800 #12503] DEBUG -- : new line - info update: {:chars=>309, :chars_no_spaces=>255, :lines=>5, :words=>59, :sentences=>0, :paragraphs=>1, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.286889 #12503] DEBUG -- : new line - info update: {:chars=>371, :chars_no_spaces=>306, :lines=>6, :words=>71, :sentences=>0, :paragraphs=>1, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.286978 #12503] DEBUG -- : new line - info update: {:chars=>434, :chars_no_spaces=>358, :lines=>7, :words=>83, :sentences=>0, :paragraphs=>1, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.287067 #12503] DEBUG -- : new line - info update: {:chars=>498, :chars_no_spaces=>411, :lines=>8, :words=>95, :sentences=>0, :paragraphs=>1, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.287150 #12503] DEBUG -- : new line - info update: {:chars=>514, :chars_no_spaces=>425, :lines=>9, :words=>98, :sentences=>1, :paragraphs=>1, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.287228 #12503] DEBUG -- : new line - info update: {:chars=>514, :chars_no_spaces=>425, :lines=>10, :words=>98, :sentences=>1, :paragraphs=>1, :wps=>0, :spp=>0}, start of new paragraph
+D, [2012-02-03T16:35:57.287318 #12503] DEBUG -- : new line - info update: {:chars=>576, :chars_no_spaces=>475, :lines=>11, :words=>111, :sentences=>1, :paragraphs=>2, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.287407 #12503] DEBUG -- : new line - info update: {:chars=>635, :chars_no_spaces=>524, :lines=>12, :words=>122, :sentences=>1, :paragraphs=>2, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.287496 #12503] DEBUG -- : new line - info update: {:chars=>697, :chars_no_spaces=>577, :lines=>13, :words=>132, :sentences=>1, :paragraphs=>2, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.287586 #12503] DEBUG -- : new line - info update: {:chars=>762, :chars_no_spaces=>630, :lines=>14, :words=>145, :sentences=>1, :paragraphs=>2, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.287674 #12503] DEBUG -- : new line - info update: {:chars=>824, :chars_no_spaces=>682, :lines=>15, :words=>156, :sentences=>1, :paragraphs=>2, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.287762 #12503] DEBUG -- : new line - info update: {:chars=>881, :chars_no_spaces=>730, :lines=>16, :words=>166, :sentences=>1, :paragraphs=>2, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.287850 #12503] DEBUG -- : new line - info update: {:chars=>942, :chars_no_spaces=>782, :lines=>17, :words=>176, :sentences=>1, :paragraphs=>2, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.287938 #12503] DEBUG -- : new line - info update: {:chars=>1005, :chars_no_spaces=>836, :lines=>18, :words=>186, :sentences=>1, :paragraphs=>2, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.288025 #12503] DEBUG -- : new line - info update: {:chars=>1020, :chars_no_spaces=>849, :lines=>19, :words=>189, :sentences=>2, :paragraphs=>2, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.288106 #12503] DEBUG -- : new line - info update: {:chars=>1020, :chars_no_spaces=>849, :lines=>20, :words=>189, :sentences=>2, :paragraphs=>2, :wps=>0, :spp=>0}, start of new paragraph
+D, [2012-02-03T16:35:57.288195 #12503] DEBUG -- : new line - info update: {:chars=>1083, :chars_no_spaces=>900, :lines=>21, :words=>202, :sentences=>2, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.288283 #12503] DEBUG -- : new line - info update: {:chars=>1138, :chars_no_spaces=>947, :lines=>22, :words=>211, :sentences=>2, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.288384 #12503] DEBUG -- : new line - info update: {:chars=>1203, :chars_no_spaces=>1001, :lines=>23, :words=>223, :sentences=>2, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.288473 #12503] DEBUG -- : new line - info update: {:chars=>1266, :chars_no_spaces=>1053, :lines=>24, :words=>235, :sentences=>2, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.288562 #12503] DEBUG -- : new line - info update: {:chars=>1328, :chars_no_spaces=>1106, :lines=>25, :words=>245, :sentences=>3, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.288649 #12503] DEBUG -- : new line - info update: {:chars=>1392, :chars_no_spaces=>1161, :lines=>26, :words=>255, :sentences=>3, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.288736 #12503] DEBUG -- : new line - info update: {:chars=>1451, :chars_no_spaces=>1213, :lines=>27, :words=>264, :sentences=>3, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.288824 #12503] DEBUG -- : new line - info update: {:chars=>1516, :chars_no_spaces=>1268, :lines=>28, :words=>275, :sentences=>3, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.288912 #12503] DEBUG -- : new line - info update: {:chars=>1577, :chars_no_spaces=>1318, :lines=>29, :words=>287, :sentences=>3, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.288998 #12503] DEBUG -- : new line - info update: {:chars=>1637, :chars_no_spaces=>1370, :lines=>30, :words=>296, :sentences=>3, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.289084 #12503] DEBUG -- : new line - info update: {:chars=>1700, :chars_no_spaces=>1423, :lines=>31, :words=>307, :sentences=>4, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.289172 #12503] DEBUG -- : new line - info update: {:chars=>1759, :chars_no_spaces=>1473, :lines=>32, :words=>317, :sentences=>4, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.289258 #12503] DEBUG -- : new line - info update: {:chars=>1819, :chars_no_spaces=>1527, :lines=>33, :words=>324, :sentences=>4, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.289348 #12503] DEBUG -- : new line - info update: {:chars=>1875, :chars_no_spaces=>1575, :lines=>34, :words=>333, :sentences=>4, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.289435 #12503] DEBUG -- : new line - info update: {:chars=>1938, :chars_no_spaces=>1628, :lines=>35, :words=>344, :sentences=>5, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.289553 #12503] DEBUG -- : new line - info update: {:chars=>2003, :chars_no_spaces=>1682, :lines=>36, :words=>356, :sentences=>5, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.289643 #12503] DEBUG -- : new line - info update: {:chars=>2067, :chars_no_spaces=>1735, :lines=>37, :words=>368, :sentences=>5, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.289731 #12503] DEBUG -- : new line - info update: {:chars=>2126, :chars_no_spaces=>1785, :lines=>38, :words=>378, :sentences=>5, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.289820 #12503] DEBUG -- : new line - info update: {:chars=>2184, :chars_no_spaces=>1834, :lines=>39, :words=>388, :sentences=>6, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.289908 #12503] DEBUG -- : new line - info update: {:chars=>2243, :chars_no_spaces=>1885, :lines=>40, :words=>397, :sentences=>6, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.289996 #12503] DEBUG -- : new line - info update: {:chars=>2304, :chars_no_spaces=>1935, :lines=>41, :words=>409, :sentences=>6, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.290085 #12503] DEBUG -- : new line - info update: {:chars=>2365, :chars_no_spaces=>1984, :lines=>42, :words=>422, :sentences=>6, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.290173 #12503] DEBUG -- : new line - info update: {:chars=>2430, :chars_no_spaces=>2038, :lines=>43, :words=>434, :sentences=>6, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.290284 #12503] DEBUG -- : new line - info update: {:chars=>2490, :chars_no_spaces=>2088, :lines=>44, :words=>445, :sentences=>6, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.290381 #12503] DEBUG -- : new line - info update: {:chars=>2544, :chars_no_spaces=>2133, :lines=>45, :words=>455, :sentences=>7, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.290461 #12503] DEBUG -- : new line - info update: {:chars=>2544, :chars_no_spaces=>2133, :lines=>46, :words=>455, :sentences=>7, :paragraphs=>3, :wps=>0, :spp=>0}, start of new paragraph
+D, [2012-02-03T16:35:57.290550 #12503] DEBUG -- : new line - info update: {:chars=>2608, :chars_no_spaces=>2185, :lines=>47, :words=>468, :sentences=>7, :paragraphs=>4, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.290638 #12503] DEBUG -- : new line - info update: {:chars=>2673, :chars_no_spaces=>2241, :lines=>48, :words=>478, :sentences=>7, :paragraphs=>4, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.290726 #12503] DEBUG -- : new line - info update: {:chars=>2735, :chars_no_spaces=>2292, :lines=>49, :words=>490, :sentences=>7, :paragraphs=>4, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.290813 #12503] DEBUG -- : new line - info update: {:chars=>2795, :chars_no_spaces=>2343, :lines=>50, :words=>500, :sentences=>7, :paragraphs=>4, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.290900 #12503] DEBUG -- : new line - info update: {:chars=>2850, :chars_no_spaces=>2389, :lines=>51, :words=>510, :sentences=>8, :paragraphs=>4, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.290978 #12503] DEBUG -- : new line - info update: {:chars=>2850, :chars_no_spaces=>2389, :lines=>52, :words=>510, :sentences=>8, :paragraphs=>4, :wps=>0, :spp=>0}, start of new paragraph
+D, [2012-02-03T16:35:57.291068 #12503] DEBUG -- : new line - info update: {:chars=>2911, :chars_no_spaces=>2440, :lines=>53, :words=>521, :sentences=>8, :paragraphs=>5, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.291156 #12503] DEBUG -- : new line - info update: {:chars=>2963, :chars_no_spaces=>2481, :lines=>54, :words=>533, :sentences=>8, :paragraphs=>5, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.291244 #12503] DEBUG -- : new line - info update: {:chars=>3027, :chars_no_spaces=>2535, :lines=>55, :words=>544, :sentences=>9, :paragraphs=>5, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.291331 #12503] DEBUG -- : new line - info update: {:chars=>3088, :chars_no_spaces=>2586, :lines=>56, :words=>556, :sentences=>9, :paragraphs=>5, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.291413 #12503] DEBUG -- : new line - info update: {:chars=>3104, :chars_no_spaces=>2600, :lines=>57, :words=>559, :sentences=>9, :paragraphs=>5, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.291491 #12503] DEBUG -- : new line - info update: {:chars=>3104, :chars_no_spaces=>2600, :lines=>58, :words=>559, :sentences=>9, :paragraphs=>5, :wps=>0, :spp=>0}, start of new paragraph
+D, [2012-02-03T16:35:57.291578 #12503] DEBUG -- : new line - info update: {:chars=>3144, :chars_no_spaces=>2633, :lines=>59, :words=>567, :sentences=>10, :paragraphs=>6, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.291657 #12503] DEBUG -- : new line - info update: {:chars=>3144, :chars_no_spaces=>2633, :lines=>60, :words=>567, :sentences=>10, :paragraphs=>6, :wps=>0, :spp=>0}, start of new paragraph
+D, [2012-02-03T16:35:57.291746 #12503] DEBUG -- : new line - info update: {:chars=>3205, :chars_no_spaces=>2685, :lines=>61, :words=>577, :sentences=>11, :paragraphs=>7, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.291834 #12503] DEBUG -- : new line - info update: {:chars=>3267, :chars_no_spaces=>2737, :lines=>62, :words=>588, :sentences=>11, :paragraphs=>7, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.291922 #12503] DEBUG -- : new line - info update: {:chars=>3332, :chars_no_spaces=>2792, :lines=>63, :words=>599, :sentences=>12, :paragraphs=>7, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.292000 #12503] DEBUG -- : new line - info update: {:chars=>3332, :chars_no_spaces=>2792, :lines=>64, :words=>599, :sentences=>12, :paragraphs=>7, :wps=>0, :spp=>0}, start of new paragraph
+D, [2012-02-03T16:35:57.292090 #12503] DEBUG -- : new line - info update: {:chars=>3396, :chars_no_spaces=>2843, :lines=>65, :words=>613, :sentences=>12, :paragraphs=>8, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.292187 #12503] DEBUG -- : new line - info update: {:chars=>3458, :chars_no_spaces=>2893, :lines=>66, :words=>626, :sentences=>12, :paragraphs=>8, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.292277 #12503] DEBUG -- : new line - info update: {:chars=>3520, :chars_no_spaces=>2944, :lines=>67, :words=>639, :sentences=>12, :paragraphs=>8, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.292366 #12503] DEBUG -- : new line - info update: {:chars=>3584, :chars_no_spaces=>2995, :lines=>68, :words=>653, :sentences=>13, :paragraphs=>8, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.292454 #12503] DEBUG -- : new line - info update: {:chars=>3633, :chars_no_spaces=>3034, :lines=>69, :words=>665, :sentences=>14, :paragraphs=>8, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.292537 #12503] DEBUG -- : new line - info update: {:chars=>3633, :chars_no_spaces=>3034, :lines=>70, :words=>665, :sentences=>14, :paragraphs=>8, :wps=>0, :spp=>0}, start of new paragraph
+D, [2012-02-03T16:35:57.292626 #12503] DEBUG -- : new line - info update: {:chars=>3696, :chars_no_spaces=>3090, :lines=>71, :words=>674, :sentences=>14, :paragraphs=>9, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.292714 #12503] DEBUG -- : new line - info update: {:chars=>3759, :chars_no_spaces=>3143, :lines=>72, :words=>685, :sentences=>15, :paragraphs=>9, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.292801 #12503] DEBUG -- : new line - info update: {:chars=>3804, :chars_no_spaces=>3181, :lines=>73, :words=>693, :sentences=>16, :paragraphs=>9, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.292880 #12503] DEBUG -- : new line - info update: {:chars=>3804, :chars_no_spaces=>3181, :lines=>74, :words=>693, :sentences=>16, :paragraphs=>9, :wps=>0, :spp=>0}, start of new paragraph
+D, [2012-02-03T16:35:57.292969 #12503] DEBUG -- : new line - info update: {:chars=>3864, :chars_no_spaces=>3231, :lines=>75, :words=>704, :sentences=>17, :paragraphs=>10, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.293057 #12503] DEBUG -- : new line - info update: {:chars=>3926, :chars_no_spaces=>3284, :lines=>76, :words=>714, :sentences=>17, :paragraphs=>10, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.293143 #12503] DEBUG -- : new line - info update: {:chars=>3987, :chars_no_spaces=>3337, :lines=>77, :words=>724, :sentences=>18, :paragraphs=>10, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.293231 #12503] DEBUG -- : new line - info update: {:chars=>4048, :chars_no_spaces=>3388, :lines=>78, :words=>735, :sentences=>18, :paragraphs=>10, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.293319 #12503] DEBUG -- : new line - info update: {:chars=>4111, :chars_no_spaces=>3441, :lines=>79, :words=>746, :sentences=>20, :paragraphs=>10, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.293401 #12503] DEBUG -- : new line - info update: {:chars=>4130, :chars_no_spaces=>3458, :lines=>80, :words=>749, :sentences=>21, :paragraphs=>10, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.296154 #12503] DEBUG -- : new line - info update: {:chars=>4130, :chars_no_spaces=>3458, :lines=>81, :words=>749, :sentences=>21, :paragraphs=>10, :wps=>0, :spp=>0}, start of new paragraph
+D, [2012-02-03T16:35:57.296248 #12503] DEBUG -- : new line - info update: {:chars=>4188, :chars_no_spaces=>3507, :lines=>82, :words=>760, :sentences=>24, :paragraphs=>11, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.296328 #12503] DEBUG -- : new line - info update: {:chars=>4188, :chars_no_spaces=>3507, :lines=>83, :words=>760, :sentences=>24, :paragraphs=>11, :wps=>0, :spp=>0}, start of new paragraph
+D, [2012-02-03T16:35:57.301178 #12503] DEBUG -- : new line - info update: {:chars=>4253, :chars_no_spaces=>3559, :lines=>84, :words=>774, :sentences=>25, :paragraphs=>12, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.301333 #12503] DEBUG -- : new line - info update: {:chars=>4313, :chars_no_spaces=>3608, :lines=>85, :words=>786, :sentences=>25, :paragraphs=>12, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.301428 #12503] DEBUG -- : new line - info update: {:chars=>4355, :chars_no_spaces=>3643, :lines=>86, :words=>794, :sentences=>27, :paragraphs=>12, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.301521 #12503] DEBUG -- : new line - info update: {:chars=>4355, :chars_no_spaces=>3643, :lines=>87, :words=>794, :sentences=>27, :paragraphs=>12, :wps=>0, :spp=>0}, start of new paragraph
+D, [2012-02-03T16:35:57.301636 #12503] DEBUG -- : new line - info update: {:chars=>4418, :chars_no_spaces=>3695, :lines=>88, :words=>807, :sentences=>27, :paragraphs=>13, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.301723 #12503] DEBUG -- : new line - info update: {:chars=>4482, :chars_no_spaces=>3750, :lines=>89, :words=>817, :sentences=>28, :paragraphs=>13, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.301811 #12503] DEBUG -- : new line - info update: {:chars=>4546, :chars_no_spaces=>3803, :lines=>90, :words=>830, :sentences=>29, :paragraphs=>13, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.301905 #12503] DEBUG -- : new line - info update: {:chars=>4607, :chars_no_spaces=>3851, :lines=>91, :words=>845, :sentences=>30, :paragraphs=>13, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.301997 #12503] DEBUG -- : new line - info update: {:chars=>4669, :chars_no_spaces=>3902, :lines=>92, :words=>858, :sentences=>30, :paragraphs=>13, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.302084 #12503] DEBUG -- : new line - info update: {:chars=>4694, :chars_no_spaces=>3923, :lines=>93, :words=>863, :sentences=>31, :paragraphs=>13, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.302179 #12503] DEBUG -- : new line - info update: {:chars=>4694, :chars_no_spaces=>3923, :lines=>94, :words=>863, :sentences=>31, :paragraphs=>13, :wps=>0, :spp=>0}, start of new paragraph
+D, [2012-02-03T16:35:57.302314 #12503] DEBUG -- : new line - info update: {:chars=>4759, :chars_no_spaces=>3977, :lines=>95, :words=>875, :sentences=>31, :paragraphs=>14, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.302403 #12503] DEBUG -- : new line - info update: {:chars=>4819, :chars_no_spaces=>4027, :lines=>96, :words=>887, :sentences=>33, :paragraphs=>14, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.302496 #12503] DEBUG -- : new line - info update: {:chars=>4879, :chars_no_spaces=>4077, :lines=>97, :words=>898, :sentences=>33, :paragraphs=>14, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.302599 #12503] DEBUG -- : new line - info update: {:chars=>4941, :chars_no_spaces=>4128, :lines=>98, :words=>910, :sentences=>34, :paragraphs=>14, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.302677 #12503] DEBUG -- : new line - info update: {:chars=>4941, :chars_no_spaces=>4128, :lines=>99, :words=>910, :sentences=>34, :paragraphs=>14, :wps=>0, :spp=>0}, start of new paragraph
+D, [2012-02-03T16:35:57.302765 #12503] DEBUG -- : new line - info update: {:chars=>5005, :chars_no_spaces=>4181, :lines=>100, :words=>922, :sentences=>35, :paragraphs=>15, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.302852 #12503] DEBUG -- : new line - info update: {:chars=>5068, :chars_no_spaces=>4234, :lines=>101, :words=>934, :sentences=>36, :paragraphs=>15, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.302934 #12503] DEBUG -- : new line - info update: {:chars=>5084, :chars_no_spaces=>4249, :lines=>102, :words=>937, :sentences=>38, :paragraphs=>15, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.303011 #12503] DEBUG -- : new line - info update: {:chars=>5084, :chars_no_spaces=>4249, :lines=>103, :words=>937, :sentences=>38, :paragraphs=>15, :wps=>0, :spp=>0}, start of new paragraph
+D, [2012-02-03T16:35:57.303097 #12503] DEBUG -- : new line - info update: {:chars=>5143, :chars_no_spaces=>4299, :lines=>104, :words=>947, :sentences=>38, :paragraphs=>16, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.303184 #12503] DEBUG -- : new line - info update: {:chars=>5208, :chars_no_spaces=>4353, :lines=>105, :words=>959, :sentences=>38, :paragraphs=>16, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.303271 #12503] DEBUG -- : new line - info update: {:chars=>5271, :chars_no_spaces=>4405, :lines=>106, :words=>971, :sentences=>39, :paragraphs=>16, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.303348 #12503] DEBUG -- : new line - info update: {:chars=>5271, :chars_no_spaces=>4405, :lines=>107, :words=>971, :sentences=>39, :paragraphs=>16, :wps=>0, :spp=>0}, start of new paragraph
+D, [2012-02-03T16:35:57.303443 #12503] DEBUG -- : new line - info update: {:chars=>5332, :chars_no_spaces=>4456, :lines=>108, :words=>982, :sentences=>39, :paragraphs=>17, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.303530 #12503] DEBUG -- : new line - info update: {:chars=>5395, :chars_no_spaces=>4509, :lines=>109, :words=>993, :sentences=>40, :paragraphs=>17, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.303617 #12503] DEBUG -- : new line - info update: {:chars=>5457, :chars_no_spaces=>4559, :lines=>110, :words=>1006, :sentences=>40, :paragraphs=>17, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.303704 #12503] DEBUG -- : new line - info update: {:chars=>5519, :chars_no_spaces=>4611, :lines=>111, :words=>1017, :sentences=>40, :paragraphs=>17, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.303791 #12503] DEBUG -- : new line - info update: {:chars=>5583, :chars_no_spaces=>4664, :lines=>112, :words=>1029, :sentences=>41, :paragraphs=>17, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.303878 #12503] DEBUG -- : new line - info update: {:chars=>5646, :chars_no_spaces=>4716, :lines=>113, :words=>1041, :sentences=>41, :paragraphs=>17, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.303963 #12503] DEBUG -- : new line - info update: {:chars=>5709, :chars_no_spaces=>4768, :lines=>114, :words=>1053, :sentences=>41, :paragraphs=>17, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.304053 #12503] DEBUG -- : new line - info update: {:chars=>5770, :chars_no_spaces=>4821, :lines=>115, :words=>1065, :sentences=>41, :paragraphs=>17, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.304139 #12503] DEBUG -- : new line - info update: {:chars=>5832, :chars_no_spaces=>4876, :lines=>116, :words=>1075, :sentences=>41, :paragraphs=>17, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.304226 #12503] DEBUG -- : new line - info update: {:chars=>5879, :chars_no_spaces=>4916, :lines=>117, :words=>1084, :sentences=>42, :paragraphs=>17, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.304303 #12503] DEBUG -- : new line - info update: {:chars=>5879, :chars_no_spaces=>4916, :lines=>118, :words=>1084, :sentences=>42, :paragraphs=>17, :wps=>0, :spp=>0}, start of new paragraph
+D, [2012-02-03T16:35:57.304389 #12503] DEBUG -- : new line - info update: {:chars=>5938, :chars_no_spaces=>4964, :lines=>119, :words=>1096, :sentences=>43, :paragraphs=>18, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.304475 #12503] DEBUG -- : new line - info update: {:chars=>5994, :chars_no_spaces=>5012, :lines=>120, :words=>1106, :sentences=>43, :paragraphs=>18, :wps=>0, :spp=>0}
+D, [2012-02-03T16:35:57.304563 #12503] DEBUG -- : new line - info update: {:chars=>6044, :chars_no_spaces=>5055, :lines=>121, :words=>1114, :sentences=>44, :paragraphs=>18, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.718248 #12582] DEBUG -- : new line - info update: {:chars=>62, :chars_no_spaces=>52, :lines=>1, :words=>11, :sentences=>0, :paragraphs=>1, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.719070 #12582] DEBUG -- : new line - info update: {:chars=>123, :chars_no_spaces=>103, :lines=>2, :words=>22, :sentences=>0, :paragraphs=>1, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.719392 #12582] DEBUG -- : new line - info update: {:chars=>185, :chars_no_spaces=>155, :lines=>3, :words=>33, :sentences=>0, :paragraphs=>1, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.719702 #12582] DEBUG -- : new line - info update: {:chars=>247, :chars_no_spaces=>206, :lines=>4, :words=>45, :sentences=>0, :paragraphs=>1, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.720014 #12582] DEBUG -- : new line - info update: {:chars=>309, :chars_no_spaces=>255, :lines=>5, :words=>59, :sentences=>0, :paragraphs=>1, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.720322 #12582] DEBUG -- : new line - info update: {:chars=>371, :chars_no_spaces=>306, :lines=>6, :words=>71, :sentences=>0, :paragraphs=>1, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.720632 #12582] DEBUG -- : new line - info update: {:chars=>434, :chars_no_spaces=>358, :lines=>7, :words=>83, :sentences=>0, :paragraphs=>1, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.720937 #12582] DEBUG -- : new line - info update: {:chars=>498, :chars_no_spaces=>411, :lines=>8, :words=>95, :sentences=>0, :paragraphs=>1, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.721254 #12582] DEBUG -- : new line - info update: {:chars=>514, :chars_no_spaces=>425, :lines=>9, :words=>98, :sentences=>1, :paragraphs=>1, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.721341 #12582] DEBUG -- : new line - info update: {:chars=>514, :chars_no_spaces=>425, :lines=>10, :words=>98, :sentences=>1, :paragraphs=>1, :wps=>0, :spp=>0}, start of new paragraph
+D, [2012-02-03T16:37:28.721431 #12582] DEBUG -- : new line - info update: {:chars=>576, :chars_no_spaces=>475, :lines=>11, :words=>111, :sentences=>1, :paragraphs=>2, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.721520 #12582] DEBUG -- : new line - info update: {:chars=>635, :chars_no_spaces=>524, :lines=>12, :words=>122, :sentences=>1, :paragraphs=>2, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.721611 #12582] DEBUG -- : new line - info update: {:chars=>697, :chars_no_spaces=>577, :lines=>13, :words=>132, :sentences=>1, :paragraphs=>2, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.721701 #12582] DEBUG -- : new line - info update: {:chars=>762, :chars_no_spaces=>630, :lines=>14, :words=>145, :sentences=>1, :paragraphs=>2, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.721792 #12582] DEBUG -- : new line - info update: {:chars=>824, :chars_no_spaces=>682, :lines=>15, :words=>156, :sentences=>1, :paragraphs=>2, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.721883 #12582] DEBUG -- : new line - info update: {:chars=>881, :chars_no_spaces=>730, :lines=>16, :words=>166, :sentences=>1, :paragraphs=>2, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.721965 #12582] DEBUG -- : new line - info update: {:chars=>942, :chars_no_spaces=>782, :lines=>17, :words=>176, :sentences=>1, :paragraphs=>2, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.722049 #12582] DEBUG -- : new line - info update: {:chars=>1005, :chars_no_spaces=>836, :lines=>18, :words=>186, :sentences=>1, :paragraphs=>2, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.722129 #12582] DEBUG -- : new line - info update: {:chars=>1020, :chars_no_spaces=>849, :lines=>19, :words=>189, :sentences=>2, :paragraphs=>2, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.722205 #12582] DEBUG -- : new line - info update: {:chars=>1020, :chars_no_spaces=>849, :lines=>20, :words=>189, :sentences=>2, :paragraphs=>2, :wps=>0, :spp=>0}, start of new paragraph
+D, [2012-02-03T16:37:28.722317 #12582] DEBUG -- : new line - info update: {:chars=>1083, :chars_no_spaces=>900, :lines=>21, :words=>202, :sentences=>2, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.722405 #12582] DEBUG -- : new line - info update: {:chars=>1138, :chars_no_spaces=>947, :lines=>22, :words=>211, :sentences=>2, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.722495 #12582] DEBUG -- : new line - info update: {:chars=>1203, :chars_no_spaces=>1001, :lines=>23, :words=>223, :sentences=>2, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.722577 #12582] DEBUG -- : new line - info update: {:chars=>1266, :chars_no_spaces=>1053, :lines=>24, :words=>235, :sentences=>2, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.722658 #12582] DEBUG -- : new line - info update: {:chars=>1328, :chars_no_spaces=>1106, :lines=>25, :words=>245, :sentences=>3, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.722743 #12582] DEBUG -- : new line - info update: {:chars=>1392, :chars_no_spaces=>1161, :lines=>26, :words=>255, :sentences=>3, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.722823 #12582] DEBUG -- : new line - info update: {:chars=>1451, :chars_no_spaces=>1213, :lines=>27, :words=>264, :sentences=>3, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.722904 #12582] DEBUG -- : new line - info update: {:chars=>1516, :chars_no_spaces=>1268, :lines=>28, :words=>275, :sentences=>3, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.723007 #12582] DEBUG -- : new line - info update: {:chars=>1577, :chars_no_spaces=>1318, :lines=>29, :words=>287, :sentences=>3, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.723095 #12582] DEBUG -- : new line - info update: {:chars=>1637, :chars_no_spaces=>1370, :lines=>30, :words=>296, :sentences=>3, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.723190 #12582] DEBUG -- : new line - info update: {:chars=>1700, :chars_no_spaces=>1423, :lines=>31, :words=>307, :sentences=>4, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.723275 #12582] DEBUG -- : new line - info update: {:chars=>1759, :chars_no_spaces=>1473, :lines=>32, :words=>317, :sentences=>4, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.723361 #12582] DEBUG -- : new line - info update: {:chars=>1819, :chars_no_spaces=>1527, :lines=>33, :words=>324, :sentences=>4, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.723447 #12582] DEBUG -- : new line - info update: {:chars=>1875, :chars_no_spaces=>1575, :lines=>34, :words=>333, :sentences=>4, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.723533 #12582] DEBUG -- : new line - info update: {:chars=>1938, :chars_no_spaces=>1628, :lines=>35, :words=>344, :sentences=>5, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.723621 #12582] DEBUG -- : new line - info update: {:chars=>2003, :chars_no_spaces=>1682, :lines=>36, :words=>356, :sentences=>5, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.723709 #12582] DEBUG -- : new line - info update: {:chars=>2067, :chars_no_spaces=>1735, :lines=>37, :words=>368, :sentences=>5, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.723796 #12582] DEBUG -- : new line - info update: {:chars=>2126, :chars_no_spaces=>1785, :lines=>38, :words=>378, :sentences=>5, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.723883 #12582] DEBUG -- : new line - info update: {:chars=>2184, :chars_no_spaces=>1834, :lines=>39, :words=>388, :sentences=>6, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.723969 #12582] DEBUG -- : new line - info update: {:chars=>2243, :chars_no_spaces=>1885, :lines=>40, :words=>397, :sentences=>6, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.724056 #12582] DEBUG -- : new line - info update: {:chars=>2304, :chars_no_spaces=>1935, :lines=>41, :words=>409, :sentences=>6, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.724143 #12582] DEBUG -- : new line - info update: {:chars=>2365, :chars_no_spaces=>1984, :lines=>42, :words=>422, :sentences=>6, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.724230 #12582] DEBUG -- : new line - info update: {:chars=>2430, :chars_no_spaces=>2038, :lines=>43, :words=>434, :sentences=>6, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.724315 #12582] DEBUG -- : new line - info update: {:chars=>2490, :chars_no_spaces=>2088, :lines=>44, :words=>445, :sentences=>6, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.724402 #12582] DEBUG -- : new line - info update: {:chars=>2544, :chars_no_spaces=>2133, :lines=>45, :words=>455, :sentences=>7, :paragraphs=>3, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.724479 #12582] DEBUG -- : new line - info update: {:chars=>2544, :chars_no_spaces=>2133, :lines=>46, :words=>455, :sentences=>7, :paragraphs=>3, :wps=>0, :spp=>0}, start of new paragraph
+D, [2012-02-03T16:37:28.724568 #12582] DEBUG -- : new line - info update: {:chars=>2608, :chars_no_spaces=>2185, :lines=>47, :words=>468, :sentences=>7, :paragraphs=>4, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.724655 #12582] DEBUG -- : new line - info update: {:chars=>2673, :chars_no_spaces=>2241, :lines=>48, :words=>478, :sentences=>7, :paragraphs=>4, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.724742 #12582] DEBUG -- : new line - info update: {:chars=>2735, :chars_no_spaces=>2292, :lines=>49, :words=>490, :sentences=>7, :paragraphs=>4, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.724828 #12582] DEBUG -- : new line - info update: {:chars=>2795, :chars_no_spaces=>2343, :lines=>50, :words=>500, :sentences=>7, :paragraphs=>4, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.724913 #12582] DEBUG -- : new line - info update: {:chars=>2850, :chars_no_spaces=>2389, :lines=>51, :words=>510, :sentences=>8, :paragraphs=>4, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.724990 #12582] DEBUG -- : new line - info update: {:chars=>2850, :chars_no_spaces=>2389, :lines=>52, :words=>510, :sentences=>8, :paragraphs=>4, :wps=>0, :spp=>0}, start of new paragraph
+D, [2012-02-03T16:37:28.725084 #12582] DEBUG -- : new line - info update: {:chars=>2911, :chars_no_spaces=>2440, :lines=>53, :words=>521, :sentences=>8, :paragraphs=>5, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.725170 #12582] DEBUG -- : new line - info update: {:chars=>2963, :chars_no_spaces=>2481, :lines=>54, :words=>533, :sentences=>8, :paragraphs=>5, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.725257 #12582] DEBUG -- : new line - info update: {:chars=>3027, :chars_no_spaces=>2535, :lines=>55, :words=>544, :sentences=>9, :paragraphs=>5, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.725343 #12582] DEBUG -- : new line - info update: {:chars=>3088, :chars_no_spaces=>2586, :lines=>56, :words=>556, :sentences=>9, :paragraphs=>5, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.725424 #12582] DEBUG -- : new line - info update: {:chars=>3104, :chars_no_spaces=>2600, :lines=>57, :words=>559, :sentences=>9, :paragraphs=>5, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.725500 #12582] DEBUG -- : new line - info update: {:chars=>3104, :chars_no_spaces=>2600, :lines=>58, :words=>559, :sentences=>9, :paragraphs=>5, :wps=>0, :spp=>0}, start of new paragraph
+D, [2012-02-03T16:37:28.725586 #12582] DEBUG -- : new line - info update: {:chars=>3144, :chars_no_spaces=>2633, :lines=>59, :words=>567, :sentences=>10, :paragraphs=>6, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.725664 #12582] DEBUG -- : new line - info update: {:chars=>3144, :chars_no_spaces=>2633, :lines=>60, :words=>567, :sentences=>10, :paragraphs=>6, :wps=>0, :spp=>0}, start of new paragraph
+D, [2012-02-03T16:37:28.725752 #12582] DEBUG -- : new line - info update: {:chars=>3205, :chars_no_spaces=>2685, :lines=>61, :words=>577, :sentences=>11, :paragraphs=>7, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.725839 #12582] DEBUG -- : new line - info update: {:chars=>3267, :chars_no_spaces=>2737, :lines=>62, :words=>588, :sentences=>11, :paragraphs=>7, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.725926 #12582] DEBUG -- : new line - info update: {:chars=>3332, :chars_no_spaces=>2792, :lines=>63, :words=>599, :sentences=>12, :paragraphs=>7, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.726003 #12582] DEBUG -- : new line - info update: {:chars=>3332, :chars_no_spaces=>2792, :lines=>64, :words=>599, :sentences=>12, :paragraphs=>7, :wps=>0, :spp=>0}, start of new paragraph
+D, [2012-02-03T16:37:28.726090 #12582] DEBUG -- : new line - info update: {:chars=>3396, :chars_no_spaces=>2843, :lines=>65, :words=>613, :sentences=>12, :paragraphs=>8, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.726177 #12582] DEBUG -- : new line - info update: {:chars=>3458, :chars_no_spaces=>2893, :lines=>66, :words=>626, :sentences=>12, :paragraphs=>8, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.726277 #12582] DEBUG -- : new line - info update: {:chars=>3520, :chars_no_spaces=>2944, :lines=>67, :words=>639, :sentences=>12, :paragraphs=>8, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.726370 #12582] DEBUG -- : new line - info update: {:chars=>3584, :chars_no_spaces=>2995, :lines=>68, :words=>653, :sentences=>13, :paragraphs=>8, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.726456 #12582] DEBUG -- : new line - info update: {:chars=>3633, :chars_no_spaces=>3034, :lines=>69, :words=>665, :sentences=>14, :paragraphs=>8, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.726535 #12582] DEBUG -- : new line - info update: {:chars=>3633, :chars_no_spaces=>3034, :lines=>70, :words=>665, :sentences=>14, :paragraphs=>8, :wps=>0, :spp=>0}, start of new paragraph
+D, [2012-02-03T16:37:28.726622 #12582] DEBUG -- : new line - info update: {:chars=>3696, :chars_no_spaces=>3090, :lines=>71, :words=>674, :sentences=>14, :paragraphs=>9, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.726709 #12582] DEBUG -- : new line - info update: {:chars=>3759, :chars_no_spaces=>3143, :lines=>72, :words=>685, :sentences=>15, :paragraphs=>9, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.726794 #12582] DEBUG -- : new line - info update: {:chars=>3804, :chars_no_spaces=>3181, :lines=>73, :words=>693, :sentences=>16, :paragraphs=>9, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.726877 #12582] DEBUG -- : new line - info update: {:chars=>3804, :chars_no_spaces=>3181, :lines=>74, :words=>693, :sentences=>16, :paragraphs=>9, :wps=>0, :spp=>0}, start of new paragraph
+D, [2012-02-03T16:37:28.726965 #12582] DEBUG -- : new line - info update: {:chars=>3864, :chars_no_spaces=>3231, :lines=>75, :words=>704, :sentences=>17, :paragraphs=>10, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.727050 #12582] DEBUG -- : new line - info update: {:chars=>3926, :chars_no_spaces=>3284, :lines=>76, :words=>714, :sentences=>17, :paragraphs=>10, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.727136 #12582] DEBUG -- : new line - info update: {:chars=>3987, :chars_no_spaces=>3337, :lines=>77, :words=>724, :sentences=>18, :paragraphs=>10, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.727221 #12582] DEBUG -- : new line - info update: {:chars=>4048, :chars_no_spaces=>3388, :lines=>78, :words=>735, :sentences=>18, :paragraphs=>10, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.727307 #12582] DEBUG -- : new line - info update: {:chars=>4111, :chars_no_spaces=>3441, :lines=>79, :words=>746, :sentences=>20, :paragraphs=>10, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.727388 #12582] DEBUG -- : new line - info update: {:chars=>4130, :chars_no_spaces=>3458, :lines=>80, :words=>749, :sentences=>21, :paragraphs=>10, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.730155 #12582] DEBUG -- : new line - info update: {:chars=>4130, :chars_no_spaces=>3458, :lines=>81, :words=>749, :sentences=>21, :paragraphs=>10, :wps=>0, :spp=>0}, start of new paragraph
+D, [2012-02-03T16:37:28.730293 #12582] DEBUG -- : new line - info update: {:chars=>4188, :chars_no_spaces=>3507, :lines=>82, :words=>760, :sentences=>24, :paragraphs=>11, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.730375 #12582] DEBUG -- : new line - info update: {:chars=>4188, :chars_no_spaces=>3507, :lines=>83, :words=>760, :sentences=>24, :paragraphs=>11, :wps=>0, :spp=>0}, start of new paragraph
+D, [2012-02-03T16:37:28.730463 #12582] DEBUG -- : new line - info update: {:chars=>4253, :chars_no_spaces=>3559, :lines=>84, :words=>774, :sentences=>25, :paragraphs=>12, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.730554 #12582] DEBUG -- : new line - info update: {:chars=>4313, :chars_no_spaces=>3608, :lines=>85, :words=>786, :sentences=>25, :paragraphs=>12, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.730636 #12582] DEBUG -- : new line - info update: {:chars=>4355, :chars_no_spaces=>3643, :lines=>86, :words=>794, :sentences=>27, :paragraphs=>12, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.730711 #12582] DEBUG -- : new line - info update: {:chars=>4355, :chars_no_spaces=>3643, :lines=>87, :words=>794, :sentences=>27, :paragraphs=>12, :wps=>0, :spp=>0}, start of new paragraph
+D, [2012-02-03T16:37:28.730805 #12582] DEBUG -- : new line - info update: {:chars=>4418, :chars_no_spaces=>3695, :lines=>88, :words=>807, :sentences=>27, :paragraphs=>13, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.730888 #12582] DEBUG -- : new line - info update: {:chars=>4482, :chars_no_spaces=>3750, :lines=>89, :words=>817, :sentences=>28, :paragraphs=>13, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.730972 #12582] DEBUG -- : new line - info update: {:chars=>4546, :chars_no_spaces=>3803, :lines=>90, :words=>830, :sentences=>29, :paragraphs=>13, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.731057 #12582] DEBUG -- : new line - info update: {:chars=>4607, :chars_no_spaces=>3851, :lines=>91, :words=>845, :sentences=>30, :paragraphs=>13, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.731141 #12582] DEBUG -- : new line - info update: {:chars=>4669, :chars_no_spaces=>3902, :lines=>92, :words=>858, :sentences=>30, :paragraphs=>13, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.731220 #12582] DEBUG -- : new line - info update: {:chars=>4694, :chars_no_spaces=>3923, :lines=>93, :words=>863, :sentences=>31, :paragraphs=>13, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.731298 #12582] DEBUG -- : new line - info update: {:chars=>4694, :chars_no_spaces=>3923, :lines=>94, :words=>863, :sentences=>31, :paragraphs=>13, :wps=>0, :spp=>0}, start of new paragraph
+D, [2012-02-03T16:37:28.731399 #12582] DEBUG -- : new line - info update: {:chars=>4759, :chars_no_spaces=>3977, :lines=>95, :words=>875, :sentences=>31, :paragraphs=>14, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.731486 #12582] DEBUG -- : new line - info update: {:chars=>4819, :chars_no_spaces=>4027, :lines=>96, :words=>887, :sentences=>33, :paragraphs=>14, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.731576 #12582] DEBUG -- : new line - info update: {:chars=>4879, :chars_no_spaces=>4077, :lines=>97, :words=>898, :sentences=>33, :paragraphs=>14, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.731661 #12582] DEBUG -- : new line - info update: {:chars=>4941, :chars_no_spaces=>4128, :lines=>98, :words=>910, :sentences=>34, :paragraphs=>14, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.731737 #12582] DEBUG -- : new line - info update: {:chars=>4941, :chars_no_spaces=>4128, :lines=>99, :words=>910, :sentences=>34, :paragraphs=>14, :wps=>0, :spp=>0}, start of new paragraph
+D, [2012-02-03T16:37:28.731821 #12582] DEBUG -- : new line - info update: {:chars=>5005, :chars_no_spaces=>4181, :lines=>100, :words=>922, :sentences=>35, :paragraphs=>15, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.731915 #12582] DEBUG -- : new line - info update: {:chars=>5068, :chars_no_spaces=>4234, :lines=>101, :words=>934, :sentences=>36, :paragraphs=>15, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.731995 #12582] DEBUG -- : new line - info update: {:chars=>5084, :chars_no_spaces=>4249, :lines=>102, :words=>937, :sentences=>38, :paragraphs=>15, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.732070 #12582] DEBUG -- : new line - info update: {:chars=>5084, :chars_no_spaces=>4249, :lines=>103, :words=>937, :sentences=>38, :paragraphs=>15, :wps=>0, :spp=>0}, start of new paragraph
+D, [2012-02-03T16:37:28.732154 #12582] DEBUG -- : new line - info update: {:chars=>5143, :chars_no_spaces=>4299, :lines=>104, :words=>947, :sentences=>38, :paragraphs=>16, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.732238 #12582] DEBUG -- : new line - info update: {:chars=>5208, :chars_no_spaces=>4353, :lines=>105, :words=>959, :sentences=>38, :paragraphs=>16, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.732323 #12582] DEBUG -- : new line - info update: {:chars=>5271, :chars_no_spaces=>4405, :lines=>106, :words=>971, :sentences=>39, :paragraphs=>16, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.732398 #12582] DEBUG -- : new line - info update: {:chars=>5271, :chars_no_spaces=>4405, :lines=>107, :words=>971, :sentences=>39, :paragraphs=>16, :wps=>0, :spp=>0}, start of new paragraph
+D, [2012-02-03T16:37:28.732483 #12582] DEBUG -- : new line - info update: {:chars=>5332, :chars_no_spaces=>4456, :lines=>108, :words=>982, :sentences=>39, :paragraphs=>17, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.732567 #12582] DEBUG -- : new line - info update: {:chars=>5395, :chars_no_spaces=>4509, :lines=>109, :words=>993, :sentences=>40, :paragraphs=>17, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.732650 #12582] DEBUG -- : new line - info update: {:chars=>5457, :chars_no_spaces=>4559, :lines=>110, :words=>1006, :sentences=>40, :paragraphs=>17, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.732732 #12582] DEBUG -- : new line - info update: {:chars=>5519, :chars_no_spaces=>4611, :lines=>111, :words=>1017, :sentences=>40, :paragraphs=>17, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.732816 #12582] DEBUG -- : new line - info update: {:chars=>5583, :chars_no_spaces=>4664, :lines=>112, :words=>1029, :sentences=>41, :paragraphs=>17, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.732900 #12582] DEBUG -- : new line - info update: {:chars=>5646, :chars_no_spaces=>4716, :lines=>113, :words=>1041, :sentences=>41, :paragraphs=>17, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.732987 #12582] DEBUG -- : new line - info update: {:chars=>5709, :chars_no_spaces=>4768, :lines=>114, :words=>1053, :sentences=>41, :paragraphs=>17, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.733072 #12582] DEBUG -- : new line - info update: {:chars=>5770, :chars_no_spaces=>4821, :lines=>115, :words=>1065, :sentences=>41, :paragraphs=>17, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.733161 #12582] DEBUG -- : new line - info update: {:chars=>5832, :chars_no_spaces=>4876, :lines=>116, :words=>1075, :sentences=>41, :paragraphs=>17, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.733244 #12582] DEBUG -- : new line - info update: {:chars=>5879, :chars_no_spaces=>4916, :lines=>117, :words=>1084, :sentences=>42, :paragraphs=>17, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.733319 #12582] DEBUG -- : new line - info update: {:chars=>5879, :chars_no_spaces=>4916, :lines=>118, :words=>1084, :sentences=>42, :paragraphs=>17, :wps=>0, :spp=>0}, start of new paragraph
+D, [2012-02-03T16:37:28.733403 #12582] DEBUG -- : new line - info update: {:chars=>5938, :chars_no_spaces=>4964, :lines=>119, :words=>1096, :sentences=>43, :paragraphs=>18, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.733487 #12582] DEBUG -- : new line - info update: {:chars=>5994, :chars_no_spaces=>5012, :lines=>120, :words=>1106, :sentences=>43, :paragraphs=>18, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.733573 #12582] DEBUG -- : new line - info update: {:chars=>6044, :chars_no_spaces=>5055, :lines=>121, :words=>1114, :sentences=>44, :paragraphs=>18, :wps=>0, :spp=>0}
+D, [2012-02-03T16:37:28.733648 #12582] DEBUG -- : END OF ANALYSIS
