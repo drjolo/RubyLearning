@@ -7,3 +7,9 @@ for i in (0..5)
   # puts i
   puts i % 3
 end
+
+def hello
+  'hello'
+end
+
+puts hello

@@ -1,0 +1,2 @@
+ruby -e 'n=gets.chomp;puts n.chars.to_a.shuffle.join'
+ruby -e 'e=gets.chomp;puts e.match(/^.+@.+\..{3}/)?"valid email":"invalid email"'

@@ -1,5 +1,7 @@
 require File.dirname(__FILE__) + '/game.rb'
 
+puts File.dirname(__FILE__) + '/dtrconverter.rb'
+
 =begin
  doctest: Game (save and load) test suite
  >> g = Game.new
