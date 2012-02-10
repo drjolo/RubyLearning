@@ -5,16 +5,17 @@ require_relative 'prompt'
 def convert_one( test_input = false )
   test = false ^ test_input
   input = (test_input or prompt('> ').chomp)
-  args = input.match(/^(-?\d+(.\d+)?) ?(\w{2})$/)
-  if (args && args[3])
+  args = input.match(/^(-?\d+(.\d+)?) ?(\w ?(to)? ?\w)$/)
+  conversion = args[3].delete(' to') unless args.nil?
+  if (args && conversion)
     begin
-      "= #{convert(args[1], args[3]).round(2)} #{args[3][1].upcase}"
+      "= #{convert(args[1], conversion).round(2)} #{conversion[1].upcase}"
     rescue Exception => e
       case e.message
       when 'unit'
         "Please select from the available temperatures to convert: degF (f), Rankine (r), degC (c), or Kelvin (k)"
       when "below 0"
-        unit = args[3][0].upcase
+        unit = conversion[0].upcase
         "That temperature (#{args[1].to_s} #{unit}) is below absolute zero!"
       else
         "An error cccurred, please try again"

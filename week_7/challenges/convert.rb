@@ -26,7 +26,8 @@ def convert( temp, conversion )
   when 'r'
     (temp == -273.15) ? 0 : to_english(temp, 'r')
   else
-    raise(ArgumentError, "unknown temperature type: #{conversion[0]}")
+    puts ">" + conversion[1] + "<"
+    raise(ArgumentError, "unit")
   end
 end
 

@@ -37,10 +37,16 @@ require File.dirname(__FILE__) + '/convert_shell.rb'
  doctest: Example works!
  >> convert_one( '72 fc' )
  => '= 22.22 C'
+ >> convert_one( '1000 f to c' )
+ => "= 537.78 C"
+ >> convert_one( '1000 ftoc' )
+ => "= 537.78 C"
  doctest: Incorrect Input is handled correctly
  This is for using incorrect units:
  >> convert_one( '72 gc' )
  => "Please select from the available temperatures to convert: degF (f), Rankine (r), degC (c), or Kelvin (k)"
  >> convert_one( '72' ).match(/^Incorrect Usage!\nTry \d{2} [c|f|k|r]{2}$/).nil?
+ => false
+ >> convert_one( '72 f t c').match(/^Incorrect Usage!\nTry \d{2} [c|f|k|r]{2}$/).nil?
  => false
 =end
